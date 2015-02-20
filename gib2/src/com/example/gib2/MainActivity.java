@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
 	//juan
 	//Nicolas
 	//fffff
+	
+	//ggggg
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
