@@ -9,6 +9,8 @@ public class MainActivity extends Activity {
 //MALDITO GIB
 	//puto gib
 //	  ZZZZZZZZ
+	
+	//Nicolas
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
