@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 //MALDITO GIB
+	//puto gib
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
